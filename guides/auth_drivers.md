@@ -9,7 +9,7 @@ new implementations.
 ## OAuth 2 Overview
 
 The bulk of OAuth 2 is a process by which Dropbox users authorize your
-application to access their Dropbox. At the end of the process, your applcation
+application to access their Dropbox. At the end of the process, your application
 obtains an access token, which is an opaque string of 64-128 URL-safe
 characters. The access token identifies your application and the user who
 authorized it.
